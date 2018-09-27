@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="113041" started-at="2018-07-20T07:16:19Z" finished-at="2018-07-20T07:18:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="113041" started-at="2018-07-20T07:16:19Z" finished-at="2018-07-20T07:18:12Z">
+      <class name="Test.ForgotPwd_test">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test.ForgotPwd_test@7a1ebcd8]" name="beforeTest" is-config="true" duration-ms="18982" started-at="2018-07-20T07:16:19Z" finished-at="2018-07-20T07:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="FP1()[pri:1, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP1" duration-ms="2110" started-at="2018-07-20T07:16:38Z" finished-at="2018-07-20T07:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP1 -->
+        <test-method status="PASS" signature="FP2()[pri:2, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP2" duration-ms="16051" started-at="2018-07-20T07:16:40Z" finished-at="2018-07-20T07:16:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP2 -->
+        <test-method status="PASS" signature="FP3()[pri:3, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP3" duration-ms="2180" started-at="2018-07-20T07:16:56Z" finished-at="2018-07-20T07:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP3 -->
+        <test-method status="PASS" signature="FP4()[pri:4, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP4" duration-ms="17930" started-at="2018-07-20T07:16:58Z" finished-at="2018-07-20T07:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP4 -->
+        <test-method status="PASS" signature="FP5()[pri:5, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP5" duration-ms="3444" started-at="2018-07-20T07:17:16Z" finished-at="2018-07-20T07:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP5 -->
+        <test-method status="PASS" signature="FP6()[pri:6, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP6" duration-ms="9454" started-at="2018-07-20T07:17:19Z" finished-at="2018-07-20T07:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP6 -->
+        <test-method status="PASS" signature="FP7()[pri:7, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP7" duration-ms="4207" started-at="2018-07-20T07:17:29Z" finished-at="2018-07-20T07:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP7 -->
+        <test-method status="PASS" signature="FP8()[pri:8, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP8" duration-ms="14080" started-at="2018-07-20T07:17:33Z" finished-at="2018-07-20T07:17:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP8 -->
+        <test-method status="PASS" signature="FP9()[pri:9, instance:Test.ForgotPwd_test@7a1ebcd8]" name="FP9" duration-ms="23064" started-at="2018-07-20T07:17:47Z" finished-at="2018-07-20T07:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FP9 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.ForgotPwd_test@7a1ebcd8]" name="afterTest" is-config="true" duration-ms="1500" started-at="2018-07-20T07:18:10Z" finished-at="2018-07-20T07:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test.ForgotPwd_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

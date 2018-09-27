@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Zoom2u suite]">
+  <test name="Zoom2u test(failed)">
+    <classes>
+      <class name="Test.GetQuote_Part2test">
+        <methods>
+          <include name="C21"/>
+          <include name="C14"/>
+        </methods>
+      </class> <!-- Test.GetQuote_Part2test -->
+    </classes>
+  </test> <!-- Zoom2u test(failed) -->
+</suite> <!-- Failed suite [Zoom2u suite] -->
