@@ -137,7 +137,7 @@ public class MABTest extends MAB_Scenarios {
   public void beforeTest() throws Exception {
 	  
 	  LaunchBrowser_inCrossBrowser.OpenBrowser("Chrome", "61*64", "Windows 7 64-bit", "MABTest");
-
+	  
   }
 
   @AfterTest

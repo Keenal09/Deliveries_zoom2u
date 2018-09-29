@@ -31,7 +31,7 @@ public class Add_item_verification_heavyfreight extends MAB_Scenarios {
 		System.out.println(".................................................................................................");
 		System.out.println("MAB11: Verify the add item verification for heavy freight bid request....");
 		driver.findElement(By.xpath(objMAB.MAB_LargeItemsshipmentLocator())).click();
-		 
+		 System.out.println("");
 		if (Shipmenttype.equals("BuildingMaterials")) 
 		{	
 		 System.out.println("Verify the add item verification for BuildingMaterials....");
